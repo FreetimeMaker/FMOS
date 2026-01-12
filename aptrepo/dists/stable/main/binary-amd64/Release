@@ -1,0 +1,5 @@
+Component: main
+Origin: Freetime-OS-Repo
+Label: Freetime-OS-Repo
+Architecture: amd64
+Description: The Official APT Repository for FreetimeOS

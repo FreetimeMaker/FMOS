@@ -1,0 +1,2 @@
+aptrepo/debs/*.deb filter=lfs diff=lfs merge=lfs -text
+*.deb filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,7 @@
+Origin: Freetime-OS-Repo
+Label: Freetime-OS-Repo
+Codename: stable
+Architectures: amd64
+Components: main
+Description: The Official APT Repository for FreetimeOS
+SignWith: 9D85E28978129D9F
