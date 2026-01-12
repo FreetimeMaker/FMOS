@@ -1,19 +1,19 @@
 Origin: Freetime-OS-Repo
 Label: Freetime-OS-Repo
 Codename: stable
-Date: Sun, 11 Jan 2026 19:31:52 UTC
+Date: Mon, 12 Jan 2026 16:42:45 UTC
 Architectures: amd64
 Components: main
 Description: The Official APT Repository for FreetimeOS
 MD5Sum:
- 296a9f6c14dc58490fc8c64ef367e0d3 1360 main/binary-amd64/Packages
- 6ef7bd5e3195fc5d3fb0aadcca4369cb 703 main/binary-amd64/Packages.gz
+ d898a5a6575701a52b2ff5b7780bfde8 9069 main/binary-amd64/Packages
+ e9ede952adbcca816cfd0114bfda615f 3423 main/binary-amd64/Packages.gz
  4b50532f6204df33cbb49367f9a67d9a 141 main/binary-amd64/Release
 SHA1:
- f7932505f892f9586575c002d1bd86d070570252 1360 main/binary-amd64/Packages
- dc439dcbbb326c1e71270495f7ce099fcd1290db 703 main/binary-amd64/Packages.gz
+ 7499f6eccab44b1e649d3852d1f9037bf3ad0df6 9069 main/binary-amd64/Packages
+ 024c2e5b4227984170ebf430d99d88cb2a452268 3423 main/binary-amd64/Packages.gz
  eb55fb1f86df9155afdabbe9011e74acde9a1f5f 141 main/binary-amd64/Release
 SHA256:
- 5da302d6e7a84801518be5a49bd106bb3ca8726cf1c146a0c568b0d08a95a229 1360 main/binary-amd64/Packages
- 3b047b4d51ee26f50930e7beee685208b516424251f8631eacf9c16b82061c19 703 main/binary-amd64/Packages.gz
+ 66c61d57d489a481347704e5af331390ed01d38c317a47a10489fa4452ac4bd8 9069 main/binary-amd64/Packages
+ aa32dd8a4bd42b332e625d6d3fb533761a719e74dd9334593676c06cc4c7ef49 3423 main/binary-amd64/Packages.gz
  dedad00ab77e731de62831b873626abb0a27f6c3ccee7169d7f388ee7f641a3a 141 main/binary-amd64/Release

@@ -1,3 +1,67 @@
+Package: blockbench
+Version: 5.0.7-475
+License: GPL-3.0-or-later
+Vendor: JannisX11 <info@blockbench.net>
+Architecture: amd64
+Maintainer: JannisX11 <info@blockbench.net>
+Installed-Size: 360108
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://blockbench.net
+Priority: optional
+Section: default
+Filename: pool/main/b/blockbench/blockbench_5.0.7-475_amd64.deb
+Size: 94616144
+SHA256: 5b80aa0eb259aec37a767d741b6fa8f37c22d952cc209eca58a174cd9657546c
+SHA1: 7720b3c2ab6425000cb26156b02919921ab65e40
+MD5sum: f7667d4ae6ffcf52e4323816cc36b748
+Description: 
+  Low-poly modeling and animation software
+
+Package: code
+Version: 1.108.0-1767881962
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.14), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
+Recommends: libvulkan1
+Architecture: amd64
+Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
+Homepage: https://code.visualstudio.com/
+Installed-Size: 457535
+Provides: visual-studio-code
+Conflicts: visual-studio-code
+Replaces: visual-studio-code
+Priority: optional
+Section: devel
+Filename: pool/main/c/code/code_1.108.0-1767881962_amd64.deb
+Size: 114497522
+SHA256: 1722e0cf7b72a6806c9dc24b755067635d4831ff6f927f1a93642052cc4a364f
+SHA1: 34d61c35e141ce45ab6344036578a38fba65f5fd
+MD5sum: 286d31fa4235117c3af183afbe967d6d
+Description: Code editing. Redefined.
+ Visual Studio Code is a new choice of tool that combines the simplicity of
+ a code editor with what developers need for the core edit-build-debug cycle.
+ See https://code.visualstudio.com/docs/setup/linux for installation
+ instructions and FAQ.
+
+Package: curseforge
+Version: 1.295.0~29976-29976
+License: Commercial
+Vendor: Overwolf <support@overwolf.com>
+Architecture: amd64
+Maintainer: Overwolf <support@overwolf.com>
+Installed-Size: 333337
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://curseforge.overwolf.com
+Priority: optional
+Section: default
+Filename: pool/main/c/curseforge/curseforge_1.295.0~29976-29976_amd64.deb
+Size: 95636418
+SHA256: 6fd2975dbb12fe09a88dbb4e1f05dc93189f06e85853b9a9a9318d493059ef64
+SHA1: 71d4a3c71999531e5de9bf10db456288df62f4ab
+MD5sum: beb8949aad72c54e44635d87a8022c23
+Description: 
+  The CurseForge Electron App
+
 Package: cursor
 Version: 2.3.34-1768080664
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.14), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
@@ -17,4 +81,75 @@ SHA256: 87ba3c55f8c2a4e5961df59be987f26426ddfef841bbdc71e9bc9c3ca074638a
 SHA1: 0c0acb970f5e76316db5264dd34cf16d57ffe43a
 MD5sum: 559f03611bdbdb49752cb20df9a7ecb3
 Description: The AI Code Editor.
+
+Package: discord
+Version: 0.0.119
+Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
+Recommends: libappindicator1 | libayatana-appindicator1
+Homepage: https://discord.com
+Architecture: amd64
+Installed-Size: 270676
+Maintainer: Discord Maintainer Team <noreply@discord.com>
+Priority: optional
+Section: net
+Filename: pool/main/d/discord/discord_0.0.119_amd64.deb
+Size: 108129318
+SHA256: 47aa2ef2ec2279ec0f014f6fdc43db1af6f03f9e107d9814bb88603d9e8d2463
+SHA1: 1ae2259c935169bcee177c3c6b43f0ad5db4993b
+MD5sum: caa2e325761b9228197f6d771c3b212b
+Description: Chat for Communities and Friends
+ Discord is the easiest way to communicate over voice, video, and text. Chat,
+ hang out, and stay close with your friends and communities.
+
+Package: git
+Version: 1:2.47.3-0+deb13u1
+Architecture: amd64
+Maintainer: Jonathan Nieder <jrnieder@gmail.com>
+Installed-Size: 49154
+Depends: libc6 (>= 2.38), libcurl3t64-gnutls (>= 7.56.1), libexpat1 (>= 2.0.1), libpcre2-8-0 (>= 10.34), zlib1g (>= 1:1.2.2), perl, liberror-perl, git-man (>> 1:2.47.3), git-man (<< 1:2.47.3-.)
+Recommends: ca-certificates, patch, less, ssh-client
+Suggests: gettext-base, git-doc, git-email, git-gui, gitk, gitweb, git-cvs, git-mediawiki, git-svn
+Breaks: bash-completion (<< 1:1.90-1), cogito (<= 0.18.2+), dgit (<< 5.1~), git-buildpackage (<< 0.6.5), git-el (<< 1:2.32.0~rc2-1~), gitosis (<< 0.2+20090917-7), gitpkg (<< 0.15), guilt (<< 0.33), openssh-client (<< 1:6.8), stgit (<< 0.15), stgit-contrib (<< 0.15)
+Provides: git-completion, git-core
+Multi-Arch: foreign
+Homepage: https://git-scm.com/
+Priority: optional
+Section: vcs
+Filename: pool/main/g/git/git_2.47.3-0+deb13u1_amd64.deb
+Size: 8861572
+SHA256: 3e35662fd5c46add561703e54031a1d8ad9df45811927689f0a51122b13be722
+SHA1: bb5947667cef07307ce77aeb86fd95c2a3e85472
+MD5sum: 26aa869d049c8cddc78ca94f56ad3510
+Description: fast, scalable, distributed revision control system
+ Git is popular version control system designed to handle very large
+ projects with speed and efficiency; it is used for many high profile
+ open source projects, most notably the Linux kernel.
+ .
+ Git falls in the category of distributed source code management tools.
+ Every Git working directory is a full-fledged repository with full
+ revision tracking capabilities, not dependent on network access or a
+ central server.
+ .
+ This package provides the git main components with minimal dependencies.
+ Additional functionality, e.g. a graphical user interface and revision
+ tree visualizer, tools for interoperating with other VCS's, or a web
+ interface, is provided as separate git* packages.
+
+Package: shotcut
+Version: 25.03.29+ds-1
+Architecture: amd64
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 5981
+Depends: libc6 (>= 2.38), libfftw3-double3 (>= 3.3.10), libgcc-s1 (>= 4.0), libmlt++7 (>= 7.30.0), libmlt7 (>= 7.30.0), libqt6charts6 (>= 6.6.1), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6multimedia6 (>= 6.6.1), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.6.0), libqt6quickcontrols2-6 (>= 6.6.0), libqt6quickwidgets6 (>= 6.6.0), libqt6sql6 (>= 6.1.2), libqt6widgets6 (>= 6.8.2), libqt6xml6 (>= 6.6.0), libstdc++6 (>= 14), libjs-three, qml6-module-qt-labs-animation, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-lottieqt, qml6-module-qt-labs-platform, qml6-module-qt-labs-qmlmodels, qml6-module-qt-labs-settings, qml6-module-qt-labs-sharedimage, qml6-module-qt-labs-wavefrontmesh, qml6-module-qtcore, qml6-module-qtqml, qml6-module-qtqml-models, qml6-module-qtqml-statemachine, qml6-module-qtqml-workerscript, qml6-module-qtqml-xmllistmodel, qml6-module-qtquick, qml6-module-qtquick-localstorage, qml6-module-qtquick-nativestyle, qml6-module-qtquick-particles, qml6-module-qtquick-shapes, qml6-module-qtquick-templates, qml6-module-qtquick-timeline, qml6-module-qtquick-tooling, qml6-module-qtquick-virtualkeyboard, qml6-module-qtquick-window, qml6-module-qtquick-controls, qml6-module-qtquick-dialogs, qml6-module-qtquick-layouts, melt, frei0r-plugins, shotcut-data (>= 25.03.29+ds-1)
+Homepage: https://www.shotcut.org/
+Priority: optional
+Section: video
+Filename: pool/main/s/shotcut/shotcut_25.03.29+ds-1_amd64.deb
+Size: 1734492
+SHA256: 3eb1a699570efa6c8f6bfc207d3b9c071983bba293c72aa28e52b4b6b0d9553e
+SHA1: a25cc2edf4c49bca2152ebe22bdd8e465e98cd46
+MD5sum: 8ac0791be17aaa73b722235a84e2395a
+Description: video editor
+ This is a video editor with features like 4k resolution support,
+ network stream playback, audio/webcam captures, and many more.
 
