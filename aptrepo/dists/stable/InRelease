@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Freetime-OS-Repo
 Label: Freetime-OS-Repo
 Codename: stable
-Date: Mon, 12 Jan 2026 16:42:45 UTC
+Date: Thu, 15 Jan 2026 16:08:33 UTC
 Architectures: amd64
 Components: main
 Description: The Official APT Repository for FreetimeOS
@@ -22,15 +22,15 @@ SHA256:
  dedad00ab77e731de62831b873626abb0a27f6c3ccee7169d7f388ee7f641a3a 141 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEEb/4q6uv9G3SkllEnYXiiXgSnZ8FAmllJIoACgkQnYXiiXgS
-nZ9YmAv/a+aK3zxXAdU32KtTlSfxrihF3DiyWjcIQGjXuS4pS27m1hZxLcjHsBhd
-VCyVPs+D/T1W74D0QWUht7DyJLz9C5gqiYG+tYV9RvT/Finr4oCkejN7f5K7VA2v
-G+BWn5/j2dKLtf4WZAyGTEW18zwniLKBcA0FkD+XVhFtT+Q3Pf7Y09Fy3Pntbz1G
-rF02BgaesqezvNSuFDLhInoLpq7hjfxbJrbiakcum6iVhINbcn2E1wIhQgmtQDPt
-Np9eOsnZF/cd9vZ8hIgIOvT67EOkgBJFn9PNYNXDZgBxAuorC337gbCIiL50kN8r
-82jQKr8BJHD/fpYopEXQru9F7dzhOhrD8CwIJgBoEUJDQRyoMm/EoXcChScRgW5t
-Oz0fTc0Ai60FY2ceYNyEFZeElQJAd8sBS8kBa5BKgprfjSXj1uYe/LitfrNFDaLj
-g0UMhCEs4kbNvH8CPledFQoDeNVWeWfKwd5JZGsC9VjbHIJvxLZAYGsbOuMHBpER
-KmiLrG0+
-=IBEE
+iQGzBAEBCgAdFiEEEb/4q6uv9G3SkllEnYXiiXgSnZ8FAmlpEQcACgkQnYXiiXgS
+nZ8QAgwAtLu42HqCfnPnlXYPvyeYbJflC5QCWWyCZfdyBOik/GJb/jj/FocDthnl
+rJFlzRdl1G61CDOXWKrqUdyGbS65OnB+XNefFOYIZJgHL8Dy1H9banfvB4FBN4rd
+mbBOGD9ykDacetUcl7q8qB2oNz2eY5LCv88240X3eYVw8rphCfzRk3l/Xr27fppi
+Vh2qO7znlx4gsL4EF/uLNLSKnt+FB/i5tSbzeTC22zZCpsAq90bRnIf43SvxS8Na
+Qa3d1AocWP5qHn0uX7dYeJCam7RX3Dy8ibOws6Ig6x5Mi5bPMf023hqnSPn8Cj7h
+aykJ1MVaE3BrEIjXZjMkMDcDL8CuZ+O7ZMCi16hcBx8kmgxrdc/O8c+TEcAZUOt9
+xDMwnuP97rfQeV3iQCrnN9kbGvkNWCcmwkrmg49exB1+y/RksaIap45NK/S95Ov2
+ZJSNE1zP8GnKhVZHulWUUpabqJ/Ecrycf3gnHaD1XS4gzcUOpM5u4eiZny0weS83
+5aqaDe9b
+=kmrd
 -----END PGP SIGNATURE-----
